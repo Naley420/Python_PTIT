@@ -1,5 +1,4 @@
 
-
 test = (int)(input())
 
 for x in range(test):
